@@ -53,6 +53,8 @@ plugins:
  - jekyll-mentions
  - jemoji
  - jekyll-redirect-from
-  
+ - jekyll-avatar
+ - jekyll-include-cache
+ 
 disqus:
     shortname: arvati
