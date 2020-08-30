@@ -1,12 +1,14 @@
 ---
 layout: post
-author: arvati
+author: Ademar Arvati Filho
 title: Conheça o StreetComplete
 date: 2020-08-30 10:00:00 -0300
 categories: 
   - opensource
+  - maps
 tags:
   - opensource
+  - openstreetmap
 references:
   - https://opensource.com/article/20/1/streetcomplete-crowdsource-maps
 ---
