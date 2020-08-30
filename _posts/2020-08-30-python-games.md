@@ -16,6 +16,6 @@ references:
   - https://opensource.com/article/20/5/python-games
   
 ---
-Desenvolva um jogo simples em Python usando o Jupyter Notebook instalado em sua máquina com [docker](https://hub.docker.com/r/jupyter/minimal-notebook)
+Desenvolva um jogo simples em Python usando o Jupyter Notebook instalado em sua máquina Linux
 
 
