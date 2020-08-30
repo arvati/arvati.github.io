@@ -7,7 +7,6 @@ categories:
   - opensource
   - python
   - jupyter
-  - colab
 tags:
   - opensource
   - python
@@ -15,7 +14,8 @@ tags:
   - colab
 references:
   - https://opensource.com/article/20/5/python-games
+  
 ---
-Desenvolva um jogo simples em Python usando o Jupyter Notebook com servidores do Google com a ferramenta [Colab](https://colab.research.google.com/) 
+Desenvolva um jogo simples em Python usando o Jupyter Notebook instalado em sua máquina com [docker](https://hub.docker.com/r/jupyter/minimal-notebook)
 
 
