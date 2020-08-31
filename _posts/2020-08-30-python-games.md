@@ -17,6 +17,7 @@ references:
   - https://towardsdatascience.com/configuring-jupyter-notebook-in-windows-subsystem-linux-wsl2-c757893e9d69
   - https://x410.dev/cookbook/wsl/using-x410-with-wsl2/
   - C:\Users\userName\AppData\Local\Microsoft\WindowsApps\pengwin.exe
+  - https://x410.dev/cookbook/wsl/running-xfce-desktop-on-kali-linux-wsl/
 ---
 Desenvolva um jogo simples em Python usando o Jupyter Notebook instalado em sua máquina Linux
 
